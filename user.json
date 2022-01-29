@@ -1,23 +1,26 @@
 [
- {
-  "id": 1,
-  "name": "Alvin Christ",
-  "gender": "Male",
-  "email": "alvin.christ@gmail.com",
-  "password": "alvinc123"
- },
- {
-  "id": 2,
-  "name": "Alvin Wijaya",
-  "gender": "Male",
-  "email": "alvin.wijaya@gmail.com",
-  "password": "alvinw123"
- },
- {
-  "id": 3,
-  "name": "Devijn",
-  "gender": "Male",
-  "email": "devijn@gmail.com",
-  "password": "devijn123"
- }
+  {
+    "id": 1,
+    "name": "Alvin Christ",
+    "gender": "Male",
+    "email": "alvin.christ@gmail.com",
+    "password": "alvinc123",
+    "avatar": "https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    "id": 2,
+    "name": "Alvin Wijaya",
+    "gender": "Male",
+    "email": "alvin.wijaya@gmail.com",
+    "password": "alvinw123",
+    "avatar": "https://www.adobe.com/express/create/media_135305caff1a594c231edcb1988de5f08f05cb3ee.jpeg?width=400&format=jpeg&optimize=medium"
+  },
+  {
+    "id": 3,
+    "name": "Devijn",
+    "gender": "Male",
+    "email": "devijn@gmail.com",
+    "password": "devijn123",
+    "avatar": "https://images.pexels.com/photos/799443/pexels-photo-799443.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  }
 ]
